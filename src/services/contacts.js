@@ -24,7 +24,7 @@ function internalServerError(error) {
   };
 }
 const contactService = axios.create({
-  baseURL: `https://iron-contacts.herokuapp.com/api/contact`,
+  baseURL: `https://iron-directory.herokuapp.com/api/contact`,
 });
 
 export const createContact = (data) => {

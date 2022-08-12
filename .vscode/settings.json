@@ -2,7 +2,7 @@
     "workbench.colorCustomizations": {
         "statusBar.background": "#7c051c",
         "statusBar.foreground": "#e7e7e7",
-        "statusBarItem.hoverBackground": "#fa1b49"
+        "statusBarItem.hoverBackground": "#ad0727"
     },
-    "peacock.remoteColor": "#dd0531"
+    "peacock.remoteColor": "#7c051c"
 }
